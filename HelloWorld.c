@@ -24,13 +24,13 @@ int main(void) {
 
 	printf("GoooodBye!\n");
 
-	printf("Please enter first number");
+	printf("Please enter first number: ");
 
 	int num = 0;
 	int test = 0;
 	scanf("%d",&num);
 
-	printf("Please enter second number");
+	printf("Please enter second number: ");
 
 	scanf("%d",&test);
 
